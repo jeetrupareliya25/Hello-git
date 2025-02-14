@@ -1,4 +1,4 @@
 # Hello-git
 this is my fust git repository.
 <br>
-Author- Jeet
+Author- Jeet Rupareliya
