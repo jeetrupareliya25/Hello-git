@@ -1,4 +1,4 @@
 # Hello-git
-this is my fust git repository.
+This Is My First Git Repository.
 <br>
 Author- Jeet
